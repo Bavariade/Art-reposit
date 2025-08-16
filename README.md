@@ -13,7 +13,7 @@ Features
 
 Interactive welcome page
 
-Stylish frontend
+Stylish fronten
 
 Easy to run locally
 
