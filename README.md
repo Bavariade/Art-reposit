@@ -9,7 +9,7 @@ GitHub Web App
 
 A simple interactive web app built with Python and Flask.
 
-Feature
+Features
 
 Interactive welcome page
 
