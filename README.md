@@ -1,4 +1,4 @@
-itHubWebApp/ ├── app.py ├── templates/ │   └── index.html ├── static/ │   └── style.css ├── requirements.txt └── README.md
+GitHubWebApp/ ├── app.py ├── templates/ │   └── index.html ├── static/ │   └── style.css ├── requirements.txt └── README.md
 
 
 ---
